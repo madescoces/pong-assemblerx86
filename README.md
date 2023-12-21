@@ -11,9 +11,11 @@ Recreation of the old Pong Game in en x8086 assembly. Assignment for The Data Pr
 
 ## Game Screenshots
 <details>
-	<img src = https://github.com/JuanCaceffo/PONG-assembly_x86/blob/main/images-readme/menu.png/>
-	<img src = https://github.com/JuanCaceffo/PONG-assembly_x86/blob/main/images-readme/game.png/>
-	<img src = https://github.com/JuanCaceffo/PONG-assembly_x86/blob/main/images-readme/point.png/>
+	
+https://github.com//edit/main/	
+ 	<img src = https://github.com/madescoces/pong-assemblerx86/main/images-readme/menu.png/>
+	<img src = https://github.com/madescoces/pong-assemblerx86/main/images-readme/game.png/>
+	<img src = https://github.com/madescoces/pong-assemblerx86/main/images-readme/point.png/>
 </details>
 
 ## Mis aportes
